@@ -102,7 +102,7 @@ The website can be deployed to any static hosting service. For GitHub Pages:
 1. Add homepage to package.json:
 ```json
 {
-  "homepage": "https://yourusername.github.io/portfolio"
+  "homepage": "https://github.com/meghanakongara0429/Portifolio"
 }
 ```
 
