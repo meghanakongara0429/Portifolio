@@ -138,7 +138,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Meghana Kongara - [meghanakongara0429@gmail.com](mailto:meghanakongara0429@gmail.com)
 
-Project Link: [https://github.com/yourusername/portfolio](https://github.com/yourusername/portfolio)
+Project Link: [https://github.com/meghanakongara0429/Portifolio](https://github.com/meghanakongara0429/Portifolio)
 
 ## Acknowledgments
 
